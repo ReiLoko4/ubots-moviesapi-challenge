@@ -1,4 +1,4 @@
-# ubots-challenge-moviesapi
+# ubots-moviesapi-challenge
 
 ## Resumo
 
