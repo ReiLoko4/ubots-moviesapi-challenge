@@ -73,7 +73,7 @@ Review {
     movie_id: integer,
     title: string,
     text: string,
-    reviewer: string
+    reviewer: string,
     rating: float,
 }
 ```
